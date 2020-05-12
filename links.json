@@ -18,45 +18,7 @@
                 ]
               },
               {
-                "category": "Server",
-                "links": [
-                  {
-                    "name": "Home",
-                    "url": "https://ramses.server/"
-                  },
-                  {
-                    "name": "MineOS",
-                    "url": "http://ramses.server:8443/"
-                  },
-                  {
-                    "name": "Emby",
-                    "url": "http://ramses.server:8096/"
-                  },
-                  {
-                    "name": "Transmission",
-                    "url": "http://ramses.server:9091/"
-                  },
-                  {
-                    "name": "Nextcloud",
-                    "url": "http://ramses.server:8282/"
-                  },
-                  {
-                    "name": "Pi-hole",
-                    "url": "http://pi.hole/"
-                  }
-                ]
-              },
-              {
-                "category": "Design",
-                "links": [
-                  {
-                    "name": "r/RoomDesign",
-                    "url": "https://www.reddit.com/r/AmateurRoomPorn/"
-                  }
-                ]
-              },
-              {
-                "category": "Dev",
+                "category": "Development",
                 "links": [
                   {
                     "name": "DevOps",

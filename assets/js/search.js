@@ -96,9 +96,6 @@ function search(text) {
         } else {
             var option = text.substr(1);
             switch (option) {
-                case "d":
-                    window.location = "https://www.dukduckgo.com";
-                    break;
                 case "y":
                     window.location = "https://www.youtube.com";
                     break;
@@ -116,7 +113,7 @@ function search(text) {
         else
             window.location = "https://" + text;
     } else {
-        window.location = "https://www.google.com/search?q=" + text;
+        window.location = "https://duckduckgo.com/?q=" + text;
     }
 }
 
