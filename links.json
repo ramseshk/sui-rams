@@ -18,24 +18,6 @@
                 ]
               },
               {
-                "category": "Development",
-                "links": [
-                  {
-                    "name": "DevOps",
-                    "url": "https://dev.azure.com/ramseshk/"
-                  }
-                ]
-              },
-              {
-                "category": "Lifestyle",
-                "links": [
-                  {
-                    "name": "Twitter",
-                    "url": "https://twitter.com/"
-                  }
-                ]
-              },
-              {
                 "category": "Media",
                 "links": [
                   {
@@ -75,6 +57,24 @@
                   {
                     "name": "MIT Technology Review",
                     "url": "https://www.technologyreview.com/"
+                  }
+                ]
+              },
+              {
+                "category": "Development",
+                "links": [
+                  {
+                    "name": "DevOps",
+                    "url": "https://dev.azure.com/ramseshk/"
+                  }
+                ]
+              },
+              {
+                "category": "Lifestyle",
+                "links": [
+                  {
+                    "name": "Twitter",
+                    "url": "https://twitter.com/"
                   }
                 ]
               }
