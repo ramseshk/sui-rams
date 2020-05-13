@@ -22,11 +22,11 @@
                 "links": [
                   {
                     "name": "Spotify",
-                    "url": "http://browse.spotify.com"
+                    "url": "https://open.spotify.com/"
                   },
                   {
                     "name": "YouTube",
-                    "url": "http://youtube.com/subscriptions"
+                    "url": "https://www.youtube.com/feed/subscriptions"
                   }
                 ]
               },
@@ -40,11 +40,20 @@
                   {
                     "name": "Medium",
                     "url": "https://medium.com"
+                  }      
+                ]
+              },
+              {
+                "category": "Finance",
+                "links": [
+                  {
+                    "name": "Finviz",
+                    "url": "https://www.finviz.com/"
                   },
                   {
-                    "name": "Reddit",
-                    "url": "https://reddit.com"
-                  }
+                    "name": "Visual Capitalist",
+                    "url": "https://www.visualcapitalist.com/"
+                  }  
                 ]
               },
               {
@@ -66,7 +75,12 @@
                   {
                     "name": "DevOps",
                     "url": "https://dev.azure.com/ramseshk/"
+                  },
+                  {
+                    "name": "Notion",
+                    "url": "https://www.notion.so/login"
                   }
+                  
                 ]
               },
               {
@@ -75,6 +89,18 @@
                   {
                     "name": "Twitter",
                     "url": "https://twitter.com/"
+                  },
+                  {
+                    "name": "Reddit",
+                    "url": "https://reddit.com"
+                  },
+                  {
+                    "name": "Hacker Noon",
+                    "url": "https://hackernoon.com/"
+                  },
+                  {
+                    "name": "xkcd",
+                    "url": "https://xkcd.com/"
                   }
                 ]
               }
