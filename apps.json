@@ -1,12 +1,15 @@
 {
     "apps" : [
-        {"name":"FreeNAS","url":"ramses.server","icon":"server"},
+        {"name":"NAS","url":"ramses.server","icon":"server"},
         {"name":"Portainer","url":"ramses.docker:9000","icon":"docker"},
         {"name":"Pi-hole","url":"pi.hole","icon":"do-not-disturb"},
         {"name":"Transmission","url":"ramses.server:9091","icon":"progress-download"},
         {"name":"Emby","url":"ramses.server:8096","icon":"plex"},
         {"name":"Minecraft","url":"ramses.server:8443","icon":"minecraft"},
         {"name":"Nextcloud","url":"ramses.server:8282","icon":"weather-cloudy"},
-        {"name":"Cockpit","url":"ramses.docker:9090","icon":"airplane"}
+        {"name":"Jackett","url":"ramses.jackett:9117","icon":"file-search"}
+        {"name":"Ghost","url":"ramses.docker:32782","icon":"approximately-equal"},
+        {"name":"Speedtest","url":"ramses.docker:7000","icon":"speedometer"},
+        {"name":"netdata","url":"ramses.server:19999","icon":"database-search"}
     ]
 }
