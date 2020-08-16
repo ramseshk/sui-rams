@@ -7,6 +7,6 @@
         {"name":"Firefly","url":"firefly.serben.ga","icon":"wallet"},
         {"name":"Bookstack","url":"bookstack.serben.ga","icon":"book"},
         {"name":"News","url":"news.serben.ga","icon":"newspaper"},
-        {"name":"Shiori","url":"shiori.serben.ga","icon":"bookmark"},
+        {"name":"Shiori","url":"shiori.serben.ga","icon":"bookmark"}
     ]
 }
