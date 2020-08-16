@@ -113,7 +113,7 @@ function search(text) {
         else
             window.location = "https://" + text;
     } else {
-        window.location = "http://ramses.docker:5000/search?q=" + text;
+        window.location = "https://duckduckgo.com/?q=" + text;
     }
 }
 
