@@ -1,15 +1,12 @@
 {
     "apps" : [
-        {"name":"NAS","url":"ramses.server","icon":"server"},
-        {"name":"Portainer","url":"ramses.docker:9000","icon":"docker"},
-        {"name":"Pi-hole","url":"pi.hole","icon":"do-not-disturb"},
-        {"name":"Transmission","url":"ramses.server:9091","icon":"progress-download"},
-        {"name":"Emby","url":"ramses.server:8096","icon":"plex"},
-        {"name":"Minecraft","url":"ramses.server:8443","icon":"minecraft"},
-        {"name":"Nextcloud","url":"ramses.server:8282","icon":"weather-cloudy"},
-        {"name":"Jackett","url":"ramses.jackett:9117","icon":"file-search"},
-        {"name":"Ghost","url":"ramses.docker:32782","icon":"approximately-equal"},
-        {"name":"Speedtest","url":"ramses.docker:7000","icon":"speedometer"},
-        {"name":"netdata","url":"ramses.server:19999","icon":"database-search"}
+        {"name":"Portainer","url":"portainer.serben.ga","icon":"docker"},
+        {"name":"Nextcloud","url":"cloud.serben.ga","icon":"cloud"},
+        {"name":"Jackett","url":"jackett.serben.ga","icon":"file-download"},
+        {"name":"Speedtest","url":"speedtest.serben.ga","icon":"speedometer"},
+        {"name":"Firefly","url":"firefly.serben.ga","icon":"wallet"},
+        {"name":"Bookstack","url":"bookstack.serben.ga","icon":"book"},
+        {"name":"News","url":"news.serben.ga","icon":"newspaper"},
+        {"name":"Shiori","url":"shiori.serben.ga","icon":"bookmark"},
     ]
 }
